@@ -1,9 +1,10 @@
+import ShoppingCartApp from "./components/ShoppingCartApp"
 
 function App() {
 
   return (
     <div>
-      Hello World
+      <ShoppingCartApp/>
     </div>
 
   )
